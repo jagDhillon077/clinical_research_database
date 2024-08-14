@@ -1,0 +1,14 @@
+Clinical Research Database Management System
+
+Authors:
+        Marie Abrosimova
+        Andrew Tsai
+        Jag Dhillon
+        
+Our clinical resarch database system consists of clinical trials preformed on patients. This is
+potentially an international software as we implemented this to be used by any country's national
+health department. The researchers conducting the trials are affiliated with universities and employed
+by hospitals for them to be allowed to conduct research. This database’s front end was initially built from HTML 
+templates and we had edited this template to suit the needs of our project. SCSS is utilized to style the web page 
+to be visually appealing, and some premade JavaScript files were utilized for some basic animations. Our group used 
+PHP in the backend and utilized MySQL to store the data. 
